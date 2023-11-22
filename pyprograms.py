@@ -1,6 +1,6 @@
 # for i in range(1,500,):
 #     if i**2<=500:
-#      print(i**2)         #perfect squares
+#      print(i**2)                 #perfect squares
 # a=["chinnu","9.7","21"]
 # for i in a:
 #     print(i)
@@ -23,7 +23,10 @@
 #     print("drink")
 #     i+=1
 
+
 ##for even/odd numbers
+
+
 
 # for i in range(1,101):
 #     if i%2==0:
@@ -31,6 +34,7 @@
 #     else:
 #         print(i)
 # print("bye")
+
 
  #fabonacci series
 # a=0
